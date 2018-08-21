@@ -1,0 +1,16 @@
+{
+  "name": "near-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Enrique Aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "request": "^2.88.0"
+  }
+}
